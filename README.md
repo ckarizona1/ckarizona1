@@ -1,4 +1,1 @@
-- Hi, I’m @ckarizona1 and I am 20 years old. 
-- I started programming during quarantine last year for fun and decided to pursue a career in Tech.
-- I’m interested in Python automation, using API's, and data visualization.
-- I’m currently at Arizona State University and plan to graduate in 2025.
+
